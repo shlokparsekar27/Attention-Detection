@@ -1,0 +1,194 @@
+[
+  {
+    "classCode": "FCS-1641",
+    "teacherId": "teacher-m01pwxk",
+    "createdAt": "2025-04-29T15:27:21.736Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-8473",
+    "teacherId": "teacher-m01pwxk",
+    "createdAt": "2025-04-29T15:27:27.628Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-5244",
+    "teacherId": "teacher-ldrm7ph",
+    "createdAt": "2025-04-29T15:28:17.131Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-1715",
+    "teacherId": "teacher-4pjoayk",
+    "createdAt": "2025-04-29T16:43:24.460Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-5957",
+    "teacherId": "teacher-weo1jki",
+    "createdAt": "2025-04-29T17:42:04.812Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-9334",
+    "teacherId": "teacher-w1xwvww",
+    "createdAt": "2025-04-29T17:43:23.928Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-4724",
+    "teacherId": "teacher-ajsnsy6",
+    "createdAt": "2025-04-29T17:48:47.854Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-6510",
+    "teacherId": "teacher-4oxop4d",
+    "createdAt": "2025-04-29T17:53:48.709Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-5301",
+    "teacherId": "teacher-0cc949z",
+    "createdAt": "2025-04-29T20:06:36.735Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-4202",
+    "teacherId": "teacher-v2dvvgy",
+    "createdAt": "2025-04-29T20:10:04.308Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-8891",
+    "teacherId": "teacher-pmn8c2e",
+    "createdAt": "2025-04-29T20:25:33.010Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-6980",
+    "teacherId": "teacher-52o6h3w",
+    "createdAt": "2025-04-29T20:29:41.315Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-5388",
+    "teacherId": "teacher-52o6h3w",
+    "createdAt": "2025-04-29T20:29:43.517Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-1853",
+    "teacherId": "teacher-guceldv",
+    "createdAt": "2025-04-29T20:29:47.800Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-6790",
+    "teacherId": "teacher-xwsta7l",
+    "createdAt": "2025-04-29T20:31:58.137Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-2051",
+    "teacherId": "teacher-krdl946",
+    "createdAt": "2025-04-29T20:32:02.602Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-8406",
+    "teacherId": "teacher-8k2xhkg",
+    "createdAt": "2025-04-29T20:32:16.053Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-2981",
+    "teacherId": "teacher-x2xf59p",
+    "createdAt": "2025-04-29T20:34:00.887Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-5454",
+    "teacherId": "teacher-x2xf59p",
+    "createdAt": "2025-04-29T20:35:56.554Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-8807",
+    "teacherId": "teacher-x2xf59p",
+    "createdAt": "2025-04-29T20:36:05.594Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-3944",
+    "teacherId": "teacher-d1chl34",
+    "createdAt": "2025-04-29T20:49:04.925Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-1483",
+    "teacherId": "teacher-78hscsx",
+    "createdAt": "2025-04-29T20:49:47.674Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-4437",
+    "teacherId": "teacher-y5b60yj",
+    "createdAt": "2025-04-29T20:51:36.321Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-4823",
+    "teacherId": "teacher-vnji4yw",
+    "createdAt": "2025-04-29T20:56:03.249Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-4926",
+    "teacherId": "teacher-ci5m5z0",
+    "createdAt": "2025-04-29T22:48:56.069Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-2029",
+    "teacherId": "teacher-6824bc2",
+    "createdAt": "2025-04-29T22:53:07.361Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-5263",
+    "teacherId": "teacher-wht8zs8",
+    "createdAt": "2025-04-29T23:04:54.902Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-8633",
+    "teacherId": "teacher-tzmxpn6",
+    "createdAt": "2025-04-29T23:08:27.800Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-1259",
+    "teacherId": "teacher-9ngu5r8",
+    "createdAt": "2025-04-29T23:10:47.408Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-7230",
+    "teacherId": "teacher-52r6et8",
+    "createdAt": "2025-04-29T23:11:14.046Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-4683",
+    "teacherId": "teacher-ngf4ldl",
+    "createdAt": "2025-04-29T23:11:37.815Z",
+    "active": true
+  },
+  {
+    "classCode": "FCS-4169",
+    "teacherId": "teacher-fmgsj1y",
+    "createdAt": "2025-04-30T01:51:38.610Z",
+    "active": true
+  }
+]
