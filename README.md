@@ -1,22 +1,33 @@
-# Runner-Up in the Hackathon Organized by E-Cell PCCE for AVISHKAR 2025
-# The-Kool-Team
+# 🎓 Smart Classroom Behavior Detection System  
+🥈 **Runner-Up** – Avishkar 2025 Hackathon  
+**Organized by:** E-Cell, PCCE  
+**Team:** The Kool Team
 
-This Project is a Software which detects the face of students in the classroom and analyse their behaviour ie if the student is active or not.
-This Project is made using react,nodejs,expressjs and mediapipe.js.
-To Run this Project:
-1)Clone the Repository
-2)Open the Folder in VS Code
-3)Open the Terminal
-4)Type npm install
-5)Type npm run dev
-6)Open the Browser and Type localhost:3000
-7)Now to turn on the backend type in the terminal:
-   node server/index.js
-8)Now the Project is Running
+---
 
-# FEEL FREE TO USE THE PROJECT AND CONTRIBUTE TO THE PROJECT THIS PROJECT CONTAINS LOT OF BUGS FEEL FREE TO DEBUG AND FIX IT AND SEND A PULL REQUEST.
+## 📌 Project Overview
 
-This Project Was Made By:
-1)Sanket Naik
-2)Shlok Parsekar
-3)Harshal Mardolkar
+This software detects and analyzes student behavior in a classroom setting using facial recognition. It identifies whether a student is active or distracted based on real-time face tracking and engagement analysis.
+
+The system was built using:
+- **React**
+- **Node.js**
+- **Express.js**
+- **MediaPipe.js**
+
+The project aims to explore the application of AI-driven facial analysis in education environments.
+
+---
+
+## 🤝 Contribution & Note
+
+This was a **group project** developed as part of the Avishkar 2025 Hackathon.  
+We welcome feedback, suggestions, and contributions to improve the system.
+
+---
+
+## 👨‍💻 Developed By
+
+- [Sanket Naik](https://github.com/sanketnaik20)  
+- [Shlok Parsekar](https://github.com/shlokparsekar27)  
+- Harshal Mardolkar
