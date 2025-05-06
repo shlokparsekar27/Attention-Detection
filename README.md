@@ -29,12 +29,12 @@ Ensure you have **Node.js** and **npm** installed on your system.
    git clone https://github.com/your-username/your-repo-name.git
 2. Navigate into the project directory
 3. Open the folder in Visual Studio Code.
-4. Install dependencies and start the frontend:
-   npm install
+4. Install dependencies and start the frontend:  
+   npm install  
    npm run dev
-5. Open your browser
-   Go to:http://localhost:3000
-6. Start the backend server in a new terminal:
+5. Open your browser  
+   Go to: http://localhost:3000
+6. Start the backend server in a new terminal:  
    node server/index.js
 
 ---
