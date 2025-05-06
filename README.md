@@ -14,13 +14,13 @@ The project aims to explore the application of AI-driven facial analysis in educ
 
 ## Tech Stack
 
-### Backend:
-- **Node.js**
-- **Express.js**
+- Backend:
+   - **Node.js**
+   - **Express.js**
 
-### Frontend:
-- **React**
-- **MediaPipe.js** (for real-time face detection or other facial tracking features)
+- Frontend:
+   - **React**
+   - **MediaPipe.js** (for real-time face detection or other facial tracking features)
 
 ---
 
