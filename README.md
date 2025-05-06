@@ -7,13 +7,20 @@
 
 ## Project Overview
 
-This software detects and analyzes student behavior in a classroom setting using facial recognition. It identifies whether a student is active or distracted based on real-time face tracking and engagement analysis.
-
-The system was built using:
-- **Frontend:** React, MediaPipe.js  
-- **Backend:** Node.js, Express.js
-
+This software detects and analyzes student behavior in a classroom setting using facial recognition. It identifies whether a student is active or distracted based on real-time face tracking and engagement analysis.  
 The project aims to explore the application of AI-driven facial analysis in education environments.
+
+---
+
+## Tech Stack
+
+### Backend:
+- **Node.js**
+- **Express.js**
+
+### Frontend:
+- **React**
+- **MediaPipe.js** (for real-time face detection or other facial tracking features)
 
 ---
 
