@@ -1,4 +1,4 @@
-# **Smart Classroom Behavior Detection System**
+# **Smart Schools with Video Intelligence**
 **Runner-Up** – Avishkar 2025 (24-Hour Hackathon)
 **Organized by:** E-Cell, PCCE  
 **Team:** The Kool Team
